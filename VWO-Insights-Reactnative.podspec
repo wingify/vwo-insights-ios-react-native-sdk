@@ -10,7 +10,7 @@ Pod::Spec.new do |s|
 	s.author            = { 'VWO' => 'info@wingify.com' }
 	s.platform     	    = :ios, '14.0'
    	s.swift_version = '5.0'
-	s.source            = { :http => 'https://github.com/wingify/insights-iOS-ReactNative/raw/#{s.version}/VWO_Insights_Reactnative.xcframework.zip', :type => 'zip' }
+	s.source            = { :http => 'https://github.com/wingify/insights-iOS-ReactNative/raw/main/VWO_Insights_Reactnative.xcframework.zip', :type => 'zip' }
 	s.ios.vendored_frameworks = 'VWO_Insights_Reactnative.xcframework'
 
 end
