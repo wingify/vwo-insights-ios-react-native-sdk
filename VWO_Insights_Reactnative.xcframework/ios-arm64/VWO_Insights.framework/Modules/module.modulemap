@@ -1,0 +1,4 @@
+framework module VWO_Insights {
+  header "VWO_Insights-Swift.h"
+  requires objc
+}
