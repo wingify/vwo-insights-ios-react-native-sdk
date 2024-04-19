@@ -1,6 +1,6 @@
-Git Pod::Spec.new do |s|
+Pod::Spec.new do |s|
 	s.name              = "VWO-Insights-Reactnative"
-	s.version           = "0.0.01"
+	s.version           = "0.0.1"
 	s.summary           = "VWO Insights Reactnative SDK for understanding user behavior to build meaningful interactions"
 	s.description       = "VWO Insights Reactnative SDK for understanding user behavior to build meaningful interactions."
 	s.documentation_url = "https://developers.vwo.com/reference/mobile-insights-ios-sdk-reference"
