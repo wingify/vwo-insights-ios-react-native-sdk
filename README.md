@@ -44,5 +44,5 @@ For more detailed usage instructions, please refer to our [Developer Documentati
 For any support queries or technical assistance, please contact our support team at [support@vwo.com](mailto:support@vwo.com)
 
 ## License
-VWO Insights SDK is licensed under the Apache-2.0 License. See the [LICENSE](https://github.com/wingify/vwo-insights-ios-flutter-sdk/blob/main/LICENSE) file for more details.
+VWO Insights SDK is licensed under the Apache-2.0 License. See the [LICENSE](https://github.com/wingify/vwo-insights-ios-react-native-sdk/blob/main/LICENSE) file for more details.
 
